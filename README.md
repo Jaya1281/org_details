@@ -1,5 +1,7 @@
 # org_details
-To merge a feature branch into the master branch using the git pull command, you can use the following steps:
+
+Created two branched named feature1 and feature2
+To merge a feature branches into the master branch using the git pull command, you can use the following steps:
 
 Make sure you are on the master branch locally by running git checkout master.
 
